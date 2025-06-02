@@ -1,0 +1,92 @@
+form {
+	color: green;
+	text-align: center;
+	border-width: 2px 2px 7px 5px;
+	border-style: SOLID #000000;
+
+	p.dotted {
+		border-style: dotted;
+	}
+
+	margin: 50px;
+	padding: 50px;
+	border: 50px SOLID grey;
+	border-radius: 10px;
+	
+}
+
+label {
+	margin-left: 10px;
+}
+
+
+div {
+	width: 300px;
+	margin: auto;
+	background-color: #FFF4A3;
+}
+
+
+
+div.graham {
+	color: green;
+}
+
+p {
+	color: red;
+}
+
+input {
+	padding: 10px
+}
+
+.firefox {
+	margin: 20px;
+}
+
+#inputbox3 {
+	color: blueviolet;
+}
+
+#myId .inputbox3 {
+	color: red;
+}
+
+input {
+	padding: 50
+}
+
+.squash {
+	margin-right: 50;
+}
+
+#myId .squash {
+	color: rgb(47, 0, 255);
+}
+
+
+a[title] {
+	color: blueviolet;
+}
+
+body h1 {
+	color: red;
+	text-align: center;
+}
+
+#myTestId.myTestClass {
+	color:red;
+}
+
+.myDiv {
+	border-width: 30px;
+	border-color: yellow;
+	background-color: aqua;
+	text-align: right;
+
+.info {background-color: #2196F3;} /* Blue */
+.info:hover {background: #0b7dda;}
+.warning {background-color: #ff9800;} /* Orange */
+.warning:hover {background: #e68a00;}
+}
+
